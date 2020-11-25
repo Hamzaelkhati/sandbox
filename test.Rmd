@@ -3,6 +3,9 @@ title: "R Notebook"
 output: github_document
 ---
 
+# titre
+## titre A
+## titre B
 ```{r}
 library("rmarkdown")
 library("knitr")

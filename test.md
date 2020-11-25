@@ -1,6 +1,12 @@
 R Notebook
 ================
 
+# titre
+
+## sous-titre A
+
+## sous-titre B
+
 ``` r
 library("rmarkdown")
 library("knitr")
