@@ -1,16 +1,20 @@
 R Notebook
 ================
 
+  - [titre](#titre)
+      - [sous-titre A](#sous-titre-a)
+      - [sous-titre B](#sous-titre-b)
+
 # titre
 
 ## sous-titre A
-
-## sous-titre B
 
 ``` r
 library("rmarkdown")
 library("knitr")
 ```
+
+## sous-titre B
 
 ``` r
 plot(cars)

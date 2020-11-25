@@ -1,17 +1,19 @@
 ---
 title: "R Notebook"
-output: github_document
+output:
+   github_document:
+     toc: true
+     toc_depth: 2
 ---
 
 # titre
-## titre A
-## titre B
+## sous-titre A
 ```{r}
 library("rmarkdown")
 library("knitr")
 ```
  
-
+## sous-titre B
 ```{r}
 plot(cars)
 ```
